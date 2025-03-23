@@ -4,7 +4,7 @@ This is a two-player dice game where players take turns rolling two dice to accu
 
 ## **Accessible through [Netlify](https://dicegame-rainer2308.netlify.app/)**
 
-Inital Deploy: Manual deploy on Netlify [20 September 2022]
+Inital Deploy: Manual deploy on Netlify [14 December 2022]
 
 Current Deploy: Linked to this Repository for live updates
 
